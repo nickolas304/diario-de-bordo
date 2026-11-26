@@ -9,4 +9,4 @@ Este repositório registra o que aprendi sobre Git, GitHub e versionamento, com 
 
 ## Fluxo de versionamento
 
-![Diagrama: editar arquivos, registrar um commit e compartilhar o histórico]
+Diagrama: editar arquivos, registrar um commit e compartilhar o histórico
